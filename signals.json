@@ -1,0 +1,207 @@
+{
+  "generated": "2026-10-24",
+  "signals": [
+    {
+      "buy_level": 65,
+      "note": "Batch 1 Strong Buy; level $65",
+      "rating": "Strong Buy",
+      "size_factor": 1.0,
+      "symbol": "UBER",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 680,
+      "note": "Batch 1 Buy; earnings Oct 29",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "EME",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 100,
+      "note": "Batch 1 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "CSCO",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 305,
+      "note": "Batch 1 Buy; earnings Oct 28",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "GOOGL",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 82,
+      "note": "Batch 1 Buy (staged); earnings Oct 29",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "INTC",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 240,
+      "note": "Batch 2 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "LRCX",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 625,
+      "note": "Batch 2 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "META",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 32.5,
+      "note": "Batch 3 Buy; earnings Nov 3",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "SMCI",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 170,
+      "note": "Batch 4 Buy; earnings Nov 3",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "ANET",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 7.25,
+      "note": "Batch 4 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "NOK",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 68,
+      "note": "Batch 5 Buy (speculative); earnings Nov 5",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "AAOI",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 375,
+      "note": "Batch 5 Buy; earnings ~Nov 12",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "AMAT",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 825,
+      "note": "Batch 5 Buy, staged around Oct 28 earnings",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "GEV",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 750,
+      "note": "Batch 5 Buy (staged); earnings ~mid-Nov",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "LITE",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 940,
+      "note": "Batch 5 Buy, staged around Oct 28 earnings",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "EQIX",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 220,
+      "note": "Batch 5 Buy; earnings ~Nov 30",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "MRVL",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 1550,
+      "note": "Batch 5 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "ASML",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 500,
+      "note": "Batch 5 Buy; earnings Nov 3",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "AMD",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 825,
+      "note": "Batch 5 Buy; earnings ~Dec 23",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "MU",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 330,
+      "note": "Batch 6 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "WDC",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 265,
+      "note": "Batch 6 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "GE",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 175,
+      "note": "Batch 6 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "RTX",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 270,
+      "note": "Batch 8 Buy",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "CRS",
+      "strategy": "research-level"
+    },
+    {
+      "active_after": "2026-10-29",
+      "buy_level": 75,
+      "note": "Batch 8 Buy (staged); post-earnings-print entry only, earnings Oct 28 AMC",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "NXT",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 48,
+      "note": "Batch 8 Buy (pullback entry only, do not chase)",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "SLB",
+      "strategy": "research-level"
+    }
+  ],
+  "source": "Desk scorecard Buy/Strong Buy rows (~/workspace/opportunity-scorecard.md). Every signal traces to a rated row. Watch/Avoid rows are NOT traded. Refresh this file when the desk changes a rating or level; the bot reads it fresh on every run, so a downgrade in a newer file exits the position."
+}
