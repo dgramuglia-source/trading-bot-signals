@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "signals": [
     {
       "buy_level": 65,
@@ -200,6 +200,41 @@
       "rating": "Buy",
       "size_factor": 1.0,
       "symbol": "SLB",
+      "strategy": "research-level"
+    },
+    {
+      "active_after": "2026-10-28",
+      "buy_level": 600,
+      "note": "Batch 9 Buy (staged); post-earnings-print entry only, earnings Oct 27 AMC",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "STX",
+      "strategy": "research-level"
+    },
+    {
+      "active_after": "2026-11-05",
+      "buy_level": 195,
+      "note": "Batch 9 Buy (staged); post-earnings-print entry only, earnings Nov 4 AMC",
+      "rating": "Buy",
+      "size_factor": 0.5,
+      "symbol": "COHR",
+      "strategy": "research-level"
+    },
+    {
+      "active_after": "2026-10-29",
+      "buy_level": 42,
+      "note": "Batch 9 Buy; post-print washout entry, earnings Oct 28 BMO - re-check print; level void if $41.39 low breaks",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "BSX",
+      "strategy": "research-level"
+    },
+    {
+      "buy_level": 135,
+      "note": "Batch 9 Buy; earnings Nov 23",
+      "rating": "Buy",
+      "size_factor": 1.0,
+      "symbol": "DKS",
       "strategy": "research-level"
     }
   ],
