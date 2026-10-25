@@ -58,8 +58,8 @@
       "strategy": "research-level"
     },
     {
-      "buy_level": 32.5,
-      "note": "Batch 3 Buy; earnings Nov 3",
+      "buy_level": 27.5,
+      "note": "Batch 3 Buy; earnings Nov 3; ATR revision 2026-10-24 (was $32.50)",
       "rating": "Buy",
       "size_factor": 1.0,
       "symbol": "SMCI",
