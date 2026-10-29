@@ -221,15 +221,6 @@
       "strategy": "research-level"
     },
     {
-      "active_after": "2026-10-29",
-      "buy_level": 42,
-      "note": "Batch 9 Buy; post-print washout entry, earnings Oct 28 BMO - re-check print; level void if $41.39 low breaks",
-      "rating": "Buy",
-      "size_factor": 1.0,
-      "symbol": "BSX",
-      "strategy": "research-level"
-    },
-    {
       "buy_level": 135,
       "note": "Batch 9 Buy; earnings Nov 23",
       "rating": "Buy",
