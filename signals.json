@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-11-02",
   "signals": [
     {
       "buy_level": 65,
@@ -26,8 +26,8 @@
       "strategy": "research-level"
     },
     {
-      "buy_level": 305,
-      "note": "Batch 1 Buy; earnings Oct 28",
+      "buy_level": 270,
+      "note": "Batch 1 Buy; $305 entry filled 2026-10-29; desk add level reset to $270 on 2026-11-01",
       "rating": "Buy",
       "size_factor": 1.0,
       "symbol": "GOOGL",
@@ -107,8 +107,8 @@
     },
     {
       "buy_level": 750,
-      "note": "Batch 5 Buy (staged); earnings ~mid-Nov",
-      "rating": "Buy",
+      "note": "Batch 5 Buy (staged) — SUSPENDED 2026-11-02: Marvell all-stock acquisition announced (4.500 MRVL per LITE share, close expected H1 2028); the $750 level is dead and the desk re-grade is pending. Downgrade exits the bot's position per this file's rules.",
+      "rating": "Watch",
       "size_factor": 0.5,
       "symbol": "LITE",
       "strategy": "research-level"
@@ -123,8 +123,8 @@
     },
     {
       "buy_level": 220,
-      "note": "Batch 5 Buy; earnings ~Nov 30",
-      "rating": "Buy",
+      "note": "Batch 5 Buy — SUSPENDED 2026-11-02 pending the combined-company re-grade after the Lumentum acquisition announcement; the $220 level is not operative. The bot exited its position 2026-11-02 on its thesis-break rule.",
+      "rating": "Watch",
       "size_factor": 1.0,
       "symbol": "MRVL",
       "strategy": "research-level"
@@ -229,5 +229,5 @@
       "strategy": "research-level"
     }
   ],
-  "source": "Desk scorecard Buy/Strong Buy rows (~/workspace/opportunity-scorecard.md). Every signal traces to a rated row. Watch/Avoid rows are NOT traded. Refresh this file when the desk changes a rating or level; the bot reads it fresh on every run, so a downgrade in a newer file exits the position."
+  "source": "Desk scorecard Buy/Strong Buy rows (~/workspace/opportunity-scorecard.md). Every signal traces to a rated row. Watch/Avoid rows are NOT traded. Refresh this file when the desk changes a rating or level; the bot reads it fresh on every run, so a downgrade in a newer file exits the position. Refresh 2026-11-02: LITE and MRVL suspended to Watch after the Marvell-Lumentum deal announcement; GOOGL buy_level $305 -> $270 (desk add level set 2026-11-01)."
 }
