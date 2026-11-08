@@ -6,184 +6,190 @@
    "note": "Batch 1 Strong Buy; level $65 \u2014 Downgraded to Watch 2026-11-07 under J-029 (ruled by Domenico 2026-11-07: paper run-off, exits only, no adds); the bot's own exit rules govern the existing paper position; the $65 level is not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "UBER",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "UBER"
   },
   {
    "buy_level": 680,
    "note": "Batch 1 Buy; earnings Oct 29",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "EME",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "EME"
   },
   {
    "buy_level": 100,
    "note": "Batch 1 Buy",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "CSCO",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "CSCO"
   },
   {
    "buy_level": 270,
    "note": "Batch 1 Buy; $305 entry filled 2026-10-29; desk add level reset to $270 on 2026-11-01",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "GOOGL",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "GOOGL"
   },
   {
    "buy_level": 82,
    "note": "Batch 1 Buy (staged); earnings Oct 29",
    "rating": "Buy",
    "size_factor": 0.5,
-   "symbol": "INTC",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "INTC"
   },
   {
    "buy_level": 240,
    "note": "Batch 2 Buy",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "LRCX",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "LRCX"
   },
   {
    "buy_level": 625,
    "note": "Batch 2 Buy",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "META",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "META"
   },
   {
    "buy_level": 27.5,
    "note": "Batch 3 Buy; earnings Nov 3; ATR revision 2026-10-24 (was $32.50) \u2014 RETIRED 2026-11-05 under J-038 (level retired; name not placed in the approved Top-7 sheet): downgraded to Watch in the 2026-11-07 J-029 refresh; the $27.50 level is dead and not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "SMCI",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "SMCI"
   },
   {
    "buy_level": 170,
    "note": "Batch 4 Buy; earnings Nov 3",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "ANET",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "ANET"
   },
   {
    "buy_level": 7.25,
    "note": "Batch 4 Buy \u2014 RETIRED 2026-11-05 under J-038 (level retired; name not placed in the approved Top-7 sheet): downgraded to Watch in the 2026-11-07 J-029 refresh; the $7.25 level is dead and not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "NOK",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "NOK"
   },
   {
-   "buy_level": 68,
-   "note": "Batch 5 Buy (speculative); earnings Nov 5",
+   "add_level": 18.05,
+   "as_of": "2026-11-08",
+   "buy_level": 23.35,
+   "note": "Moat Book D page 2026-11-08: WAIT verdict (base +1.3%/yr vs 15% hurdle); starter $23.35 landed in alerts.csv 2026-11-08 replacing the crossed $68 speculative level; ladder 23.35/18.05/13.95 (step 22.70%); SPECULATIVE - 2% sleeve cap, size 0.5, no averaging down on a thesis break; page built on dossier sections 1-4 (5-7 missing from the saved dossier - re-base when restored); row converted research-level -> buy-hold under J-051 first-tags",
    "rating": "Buy",
    "size_factor": 0.5,
-   "symbol": "AAOI",
-   "strategy": "research-level"
+   "stage3_level": 13.95,
+   "strategy": "buy-hold",
+   "symbol": "AAOI"
   },
   {
    "buy_level": 375,
    "note": "Batch 5 Buy; earnings ~Nov 12",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "AMAT",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "AMAT"
   },
   {
    "buy_level": 825,
    "note": "Batch 5 Buy, staged around Oct 28 earnings",
    "rating": "Buy",
    "size_factor": 0.5,
-   "symbol": "GEV",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "GEV"
   },
   {
    "buy_level": 750,
    "note": "Batch 5 Buy (staged) \u2014 SUSPENDED 2026-11-02: Marvell all-stock acquisition announced (4.500 MRVL per LITE share, close expected H1 2028); the $750 level is dead and the desk re-grade is pending. Downgrade exits the bot's position per this file's rules.",
    "rating": "Watch",
    "size_factor": 0.5,
-   "symbol": "LITE",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "LITE"
   },
   {
    "buy_level": 940,
    "note": "Batch 5 Buy, staged around Oct 28 earnings",
    "rating": "Buy",
    "size_factor": 0.5,
-   "symbol": "EQIX",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "EQIX"
   },
   {
    "buy_level": 220,
    "note": "Batch 5 Buy \u2014 SUSPENDED 2026-11-02 pending the combined-company re-grade after the Lumentum acquisition announcement; the $220 level is not operative. The bot exited its position 2026-11-02 on its thesis-break rule.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "MRVL",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "MRVL"
   },
   {
    "buy_level": 1550,
    "note": "Batch 5 Buy",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "ASML",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "ASML"
   },
   {
    "buy_level": 500,
    "note": "Batch 5 Buy; earnings Nov 3 \u2014 RETIRED 2026-11-05 under J-038 (level retired; name not placed in the approved Top-7 sheet): downgraded to Watch in the 2026-11-07 J-029 refresh; the $500 level is dead and not operative. The paper holding is run-off under J-029 \u2014 this downgrade exits it per this file's rules.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "AMD",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "AMD"
   },
   {
    "buy_level": 825,
    "note": "Batch 5 Buy; earnings ~Dec 23",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "MU",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "MU"
   },
   {
    "buy_level": 330,
    "note": "Batch 6 Buy \u2014 RETIRED 2026-11-05 under J-038 (level retired; name not placed in the approved Top-7 sheet): downgraded to Watch in the 2026-11-07 J-029 refresh; the $330 level is dead and not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "WDC",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "WDC"
   },
   {
    "buy_level": 265,
    "note": "Batch 6 Buy",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "GE",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "GE"
   },
   {
    "buy_level": 175,
    "note": "Batch 6 Buy \u2014 RETIRED 2026-11-05 under J-038 (level retired; name not placed in the approved Top-7 sheet): downgraded to Watch in the 2026-11-07 J-029 refresh; the $175 level is dead and not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "RTX",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "RTX"
   },
   {
-   "buy_level": 270,
-   "note": "Batch 8 Buy",
+   "add_level": 161.8,
+   "as_of": "2026-11-08",
+   "buy_level": 184.98,
+   "note": "Moat Book C page 2026-11-08: WAIT verdict (base +8.7%/yr vs 15% Contender hurdle); starter $184.98 landed in alerts.csv 2026-11-08 replacing the $270 Batch 8 level; ladder 184.98/161.80/141.53 (step 12.53% = 1.5x ATR), tranches 2-3 falsifier-gated; row converted research-level -> buy-hold under J-051 first-tags",
    "rating": "Buy",
    "size_factor": 1.0,
-   "symbol": "CRS",
-   "strategy": "research-level"
+   "stage3_level": 141.53,
+   "strategy": "buy-hold",
+   "symbol": "CRS"
   },
   {
    "active_after": "2026-10-29",
@@ -191,16 +197,16 @@
    "note": "Batch 8 Buy (staged); post-earnings-print entry only, earnings Oct 28 AMC",
    "rating": "Buy",
    "size_factor": 0.5,
-   "symbol": "NXT",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "NXT"
   },
   {
    "buy_level": 48,
    "note": "Batch 8 Buy (pullback entry only, do not chase) \u2014 Downgraded to Watch 2026-11-07 under J-029 (bot buy universe = ranked + frontier names only): SLB was dispositioned DELETE \u2014 out-of-universe in the approved Top-7 selection sheet and carries no live level in alerts.csv; the $48 level is not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "SLB",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "SLB"
   },
   {
    "active_after": "2026-10-28",
@@ -208,8 +214,8 @@
    "note": "Batch 9 Buy (staged); post-earnings-print entry only, earnings Oct 27 AMC",
    "rating": "Buy",
    "size_factor": 0.5,
-   "symbol": "STX",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "STX"
   },
   {
    "active_after": "2026-11-05",
@@ -217,16 +223,16 @@
    "note": "Batch 9 Buy (staged); post-earnings-print entry only, earnings Nov 4 AMC \u2014 Downgraded to Watch 2026-11-07 under J-039 (Saturday review: the $195 close-validation failed twice; the alerts.csv level was retired the same day); the bot's own exit rules govern the existing paper position; the $195 level is dead and not operative.",
    "rating": "Watch",
    "size_factor": 0.5,
-   "symbol": "COHR",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "COHR"
   },
   {
    "buy_level": 135,
    "note": "Batch 9 Buy; earnings Nov 23 \u2014 Downgraded to Watch 2026-11-07 under J-029 (retail is outside the ranked + frontier universe; comes off the Buy list at this refresh, the Nov 2 pattern); no position held; the $135 level is not operative.",
    "rating": "Watch",
    "size_factor": 1.0,
-   "symbol": "DKS",
-   "strategy": "research-level"
+   "strategy": "research-level",
+   "symbol": "DKS"
   },
   {
    "add_level": 153.19,
